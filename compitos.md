@@ -24,5 +24,8 @@
 
 - Assistenza clienti: Il sistema dovrebbe fornire un supporto clienti dedicato per assistere gli utenti in caso di problemi tecnici o domande sul servizio.
 
+## WBS
+https://miro.com/welcomeonboard/c1V1dmRFSjYzVnJBYUpQckJ2UEc4bmZnM1NkUlpRYmUxbTdNenJ0UDExTVdvenlhRTVPb1VVSHVLbDM2NU9MM3wzNDU4NzY0NTcxMTE3ODAwMDQzfDI=?share_link_id=721804163634
+
 ### Conclusione
 - L'applicazione di noleggio per biciclette offre una soluzione per garantire un accesso facilitato alle biciclette, la sicurezza e una tariffazione trasparente. Implementando le funzionalità sopra descritte, il sistema sarà in grado di soddisfare le esigenze degli utenti e fornire un servizio affidabile ed efficiente.
