@@ -25,7 +25,9 @@
 - Assistenza clienti: Il sistema dovrebbe fornire un supporto clienti dedicato per assistere gli utenti in caso di problemi tecnici o domande sul servizio.
 
 ## WBS
-https://miro.com/welcomeonboard/c1V1dmRFSjYzVnJBYUpQckJ2UEc4bmZnM1NkUlpRYmUxbTdNenJ0UDExTVdvenlhRTVPb1VVSHVLbDM2NU9MM3wzNDU4NzY0NTcxMTE3ODAwMDQzfDI=?share_link_id=721804163634
+![image](https://github.com/Igor-Miti/compito/assets/101175082/823d3219-1585-47c1-9da6-538479f43260)
 
+## UML
+https://yuml.me/diagram/usecase/[user]-(Sign%20In),%20[user]-(noleggio%20bici),[user]-(cerca%20bici),(noleggio%20bici)%20%3E(checkout),%20[user%20non%20registrato]%20-%20(noleggio%20bici),[user%20non%20registrato]%20-%20(cerca%20bici),(noleggio%20bici)%20%3E%20(checkout),[user%20non%20registrato]%20-%20(log%20in),[user%20non%20registrato]%20-%20(aggiungi%20metodo%20di%20pagamento)
 ### Conclusione
 - L'applicazione di noleggio per biciclette offre una soluzione per garantire un accesso facilitato alle biciclette, la sicurezza e una tariffazione trasparente. Implementando le funzionalità sopra descritte, il sistema sarà in grado di soddisfare le esigenze degli utenti e fornire un servizio affidabile ed efficiente.
