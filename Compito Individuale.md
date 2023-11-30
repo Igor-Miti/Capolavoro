@@ -4,11 +4,13 @@
 
 # Problema
 
-- Garantire un accesso facilitato alle biciclette: L'utente deve essere in grado di accedere alle biciclette in modo rapido e semplice, evitando eventuali ostacoli o complicazioni nel procedimento di prenotazione e sblocco.
+- Congestione del Traffico: In città con elevata congestione del traffico, l'uso delle biciclette può offrire un'alternativa più veloce ed efficiente per gli spostamenti urbani. Riducendo il numero di veicoli in strada, si possono alleviare problemi legati al traffico e migliorare la mobilità.
 
-- Sicurezza e prevenzione furti: Il sistema deve prevenire il furto delle biciclette e garantire che siano utilizzate solo dagli utenti che le hanno prenotate.
+- Inquinamento Atmosferico: L'utilizzo delle biciclette come mezzo di trasporto aiuta a ridurre l'inquinamento atmosferico. Le biciclette sono alimentate dalla forza umana e non emettono gas nocivi, contribuendo a una migliore qualità dell'aria nelle città.
 
-- Tariffe e costi: Il sistema deve fornire un calcolatore delle tariffe basato sulla durata e sulla distanza, in modo da garantire una tariffazione equa e trasparente per gli utenti.
+- Salute e Benessere: L'uso delle biciclette promuove uno stile di vita attivo e sano. Gli utenti che scelgono di noleggiare una bicicletta anziché utilizzare mezzi di trasporto più passivi contribuiscono al miglioramento della loro salute cardiovascolare e generale.
+
+- Parcheggi e Spazio Urbano: Le biciclette richiedono meno spazio di parcheggio rispetto alle auto. Un'app per il noleggio di biciclette può ridurre la necessità di grandi parcheggi e contribuire a liberare spazio nelle aree urbane.
 
 ## Funzionalità del sistema
 
