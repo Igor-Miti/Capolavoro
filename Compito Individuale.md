@@ -35,11 +35,11 @@ https://yuml.me/diagram/usecase/[user]-(Sign%20In),%20[user]-(noleggio%20bici),[
 
 ### Sostenibilità Ambientale:
 
-- Siamo impegnati nella sostenibilità ambientale. Le nostre biciclette sono un mezzo di trasporto ecologico, contribuendo a ridurre l'impatto ambientale. Scegliere di noleggiare da noi significa aderire a uno stile di vita sostenibile.
+- E' un app che tiene conto della sostenibilità ambientale. Le biciclette sono un mezzo di trasporto ecologico, contribuendo a ridurre l'impatto ambientale. Scegliere di noleggiare da noi significa aderire a uno stile di vita sostenibile.
 
 ### Tariffe Trasparenti e Competitive:
 
-- Garantiamo tariffe trasparenti senza costi nascosti. Le nostre tariffe competitive assicurano che tu ottenga il massimo valore per il tuo denaro. Offriamo anche piani di noleggio flessibili per adattarci alle tue esigenze.
+- L app garantisce tariffe trasparenti senza costi nascosti. Le nostre tariffe competitive assicurano che tu ottenga il massimo valore per il tuo denaro. Offriamo anche piani di noleggio flessibili per adattarci alle tue esigenze.
 
 ### Esperienza Utente Impeccabile:
 
