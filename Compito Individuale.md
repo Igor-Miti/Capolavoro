@@ -31,5 +31,17 @@
 
 ## UML
 https://yuml.me/diagram/usecase/[user]-(Sign%20In),%20[user]-(noleggio%20bici),[user]-(cerca%20bici),(noleggio%20bici)%20%3E(checkout),%20[user%20non%20registrato]%20-%20(noleggio%20bici),[user%20non%20registrato]%20-%20(cerca%20bici),(noleggio%20bici)%20%3E%20(checkout),[user%20non%20registrato]%20-%20(log%20in),[user%20non%20registrato]%20-%20(aggiungi%20metodo%20di%20pagamento)
+## Value proposition
+### Sostenibilità Ambientale:
+
+- Siamo impegnati nella sostenibilità ambientale. Le nostre biciclette sono un mezzo di trasporto ecologico, contribuendo a ridurre l'impatto ambientale. Scegliere di noleggiare da noi significa aderire a uno stile di vita sostenibile.
+
+### Tariffe Trasparenti e Competitive:
+
+- Garantiamo tariffe trasparenti senza costi nascosti. Le nostre tariffe competitive assicurano che tu ottenga il massimo valore per il tuo denaro. Offriamo anche piani di noleggio flessibili per adattarci alle tue esigenze.
+
+### Esperienza Utente Impeccabile:
+
+- Forniamo un'esperienza utente intuitiva e di semplice comprendonio , rendendo il processo di noleggio rapido e privo di complicazioni. La nostra interfaccia è semplice e ti permette di prenotare, ritirare e restituire le biciclette con pochi tocchi sullo schermo.
 ### Conclusione
 - L'applicazione di noleggio per biciclette offre una soluzione per garantire un accesso facilitato alle biciclette, la sicurezza e una tariffazione trasparente. Implementando le funzionalità sopra descritte, il sistema sarà in grado di soddisfare le esigenze degli utenti e fornire un servizio affidabile ed efficiente.
