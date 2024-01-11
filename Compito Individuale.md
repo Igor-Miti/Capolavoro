@@ -44,5 +44,16 @@ https://yuml.me/diagram/usecase/[user]-(Sign%20In),%20[user]-(noleggio%20bici),[
 ### Esperienza Utente Impeccabile:
 
 - Forniamo un'esperienza utente intuitiva e di semplice comprendonio , rendendo il processo di noleggio rapido e privo di complicazioni. La nostra interfaccia è semplice e ti permette di prenotare, ritirare e restituire le biciclette con pochi tocchi sullo schermo.
+
+### User story
+- Gli utenti possono cercare le stazioni di noleggio bici disponibili nella loro zona per individuare la bicicletta più vicina.
+
+- Gli utenti hanno la possibilità di visualizzare dettagli come modello, stato di manutenzione e disponibilità per ciascuna bicicletta presente nell'app.
+
+- Gli utenti possono effettuare la prenotazione anticipata di una bicicletta specifica per garantirne la disponibilità al momento del ritiro presso la stazione di noleggio.
+
+- Gli utenti ricevono notifiche in tempo reale riguardanti la conferma della prenotazione, l'inizio e la conclusione del noleggio.
+
+- Gli utenti sono in grado di sbloccare la bicicletta prenotata attraverso l'app senza necessità di chiavi fisiche.
 ### Conclusione
 - L'applicazione di noleggio per biciclette offre una soluzione per garantire un accesso facilitato alle biciclette, la sicurezza e una tariffazione trasparente. Implementando le funzionalità sopra descritte, il sistema sarà in grado di soddisfare le esigenze degli utenti e fornire un servizio affidabile ed efficiente.
