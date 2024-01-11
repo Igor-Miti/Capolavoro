@@ -46,14 +46,18 @@ https://yuml.me/diagram/usecase/[user]-(Sign%20In),%20[user]-(noleggio%20bici),[
 - Forniamo un'esperienza utente intuitiva e di semplice comprendonio , rendendo il processo di noleggio rapido e privo di complicazioni. La nostra interfaccia è semplice e ti permette di prenotare, ritirare e restituire le biciclette con pochi tocchi sullo schermo.
 
 ### User story
-- Gli utenti possono cercare le stazioni di noleggio bici disponibili nella loro zona per individuare la bicicletta più vicina.
+- Nella capacità di creazione dell'account è possibile registrarsi rapidamente per accedere all'app e sfruttarne tutte le funzionalità(5 ore).
 
-- Gli utenti hanno la possibilità di visualizzare dettagli come modello, stato di manutenzione e disponibilità per ciascuna bicicletta presente nell'app.
+- Attraverso la funzione di ricerca avanzata è possibile filtrare le stazioni di noleggio bici per distanza, disponibilità e caratteristiche specifiche(6 ore).
 
-- Gli utenti possono effettuare la prenotazione anticipata di una bicicletta specifica per garantirne la disponibilità al momento del ritiro presso la stazione di noleggio.
+- Con la raccomandazione personalizzata vengono fornite suggerimenti sulle biciclette in base alle preferenze e alle recensioni degli altri utenti(4 ore).
 
-- Gli utenti ricevono notifiche in tempo reale riguardanti la conferma della prenotazione, l'inizio e la conclusione del noleggio.
+- Nella capacità di prenotazione è possibile completare rapidamente il processo di prenotazione, visualizzando chiaramente le opzioni e confermando la scelta selezionata(6 ore).
 
-- Gli utenti sono in grado di sbloccare la bicicletta prenotata attraverso l'app senza necessità di chiavi fisiche.
+- Con la funzione di sblocco tramite l'app è possibile utilizzare la bicicletta senza l'uso di chiavi fisiche(5 ore).
+
+- Attraverso il monitoraggio del tempo e del costo è possibile tenere traccia in tempo reale del tempo trascorso durante il noleggio e del costo associato(8 ore).
+
+- Nella capacità di creazione dell'account è possibile registrarsi rapidamente per accedere all'app e sfruttarne tutte le funzionalità(4 ore).
 ### Conclusione
 - L'applicazione di noleggio per biciclette offre una soluzione per garantire un accesso facilitato alle biciclette, la sicurezza e una tariffazione trasparente. Implementando le funzionalità sopra descritte, il sistema sarà in grado di soddisfare le esigenze degli utenti e fornire un servizio affidabile ed efficiente.
