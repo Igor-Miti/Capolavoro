@@ -60,24 +60,24 @@ https://yuml.me/diagram/usecase/[user]-(Sign%20In),%20[user]-(noleggio%20bici),[
 
 - Nella capacità di creazione dell'account è possibile registrarsi rapidamente per accedere all'app e sfruttarne tutte le funzionalità(4 ore).
 
-### Gestione delle Partnership Internazionali e Multitenancy
-# Partnership Internazionali:
+## Gestione delle Partnership Internazionali e Multitenancy
+### Partnership Internazionali:
 - Per espandere la copertura del servizio di noleggio di biciclette, l'applicazione mira a stabilire partnership internazionali con altri paesi. Queste collaborazioni consentiranno l'installazione di nuove stazioni per biciclette in diverse città del mondo, ampliando così l'accesso e l'uso delle biciclette come alternativa di trasporto sostenibile.
 
-# Implementazione del Multitenancy:
+### Implementazione del Multitenancy:
 - Per gestire efficacemente le partnership internazionali e supportare l'installazione di stazioni per biciclette in diversi paesi, l'applicazione sarà riprogettata per implementare il concetto di multitenancy. Il multitenancy consente di ospitare più istanze dell'applicazione su un'unica infrastruttura, consentendo a ciascun paese di avere la propria configurazione e database separati.
 
-# Gestione delle Istanze:
+### Gestione delle Istanze:
 - Ogni paese partner avrà la propria istanza dell'applicazione, con un'interfaccia personalizzata per rispettare le specifiche locali e linguistiche.
-# Isolamento dei Dati:
+### Isolamento dei Dati:
 I dati relativi a ciascun paese saranno isolati e gestiti separatamente per garantire la conformità normativa e la sicurezza dei dati.
-# Collaborazione con Paesi:
+### Collaborazione con Paesi:
 - Gli amministratori dell'applicazione collaboreranno attivamente con i rappresentanti dei paesi partner per pianificare e coordinare l'installazione delle nuove stazioni per biciclette, assicurandosi che siano integrate correttamente nell'ecosistema dell'applicazione.
-### Benefici del Multitenancy e delle Partnership Internazionali:
-# Espansione Globale:
+## Benefici del Multitenancy e delle Partnership Internazionali:
+### Espansione Globale:
 - Grazie al multitenancy e alle partnership internazionali, l'applicazione potrà estendere la propria presenza globale, offrendo il servizio di noleggio di biciclette in un numero sempre maggiore di città e paesi.
 Diversificazione Culturale: Le diverse istanze dell'applicazione saranno personalizzate per rispettare le esigenze culturali e linguistiche specifiche di ciascun paese, migliorando l'esperienza complessiva degli utenti.
-# Impatto Ambientale:
+### Impatto Ambientale:
 - L'espansione del servizio di noleggio di biciclette contribuirà a promuovere uno stile di vita sostenibile e a ridurre l'impatto ambientale delle congestioni del traffico e dell'inquinamento atmosferico in molte città del mondo.
 
 
